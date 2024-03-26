@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#19](https://github.com/lcw3176/Mapshot-API/pull/19) in [lcw3176/Mapshot-API](https://github.com/lcw3176/Mapshot-API)
+2. 💪 Opened PR [#19](https://github.com/lcw3176/Mapshot-API/pull/19) in [lcw3176/Mapshot-API](https://github.com/lcw3176/Mapshot-API)
+3. 🎉 Merged PR [#18](https://github.com/lcw3176/Mapshot-API/pull/18) in [lcw3176/Mapshot-API](https://github.com/lcw3176/Mapshot-API)
+4. 💪 Opened PR [#18](https://github.com/lcw3176/Mapshot-API/pull/18) in [lcw3176/Mapshot-API](https://github.com/lcw3176/Mapshot-API)
+5. 🎉 Merged PR [#17](https://github.com/lcw3176/Mapshot-API/pull/17) in [lcw3176/Mapshot-API](https://github.com/lcw3176/Mapshot-API)
+<!--END_SECTION:activity-->
