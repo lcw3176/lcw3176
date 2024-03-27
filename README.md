@@ -6,8 +6,6 @@
 
 - [24.03 / aws 람다를 이용한 서비스 폭파 후기](https://lcw3176.github.io/posts/aws_%EB%9E%8C%EB%8B%A4%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%84%9C%EB%B9%84%EC%8A%A4_%ED%8F%AD%ED%8C%8C_%ED%9B%84%EA%B8%B0/)
 
-- [23.09 / 이미지 렌더링 문제](https://chanwoo-lee.gitbook.io/service-issues/mapshot/23.09)
-
 - [23.06 / DB 서버 장애](https://chanwoo-lee.gitbook.io/service-issues/mapshot/23.06-db)
 
 - [22.10 / 데이터 센터 화재](https://chanwoo-lee.gitbook.io/service-issues/mapshot/22.10)
