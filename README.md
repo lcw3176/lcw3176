@@ -1,19 +1,6 @@
-### Hi there 👋
-
 ### 서비스 정보
 
-도시공학 업무 자동화 서비스
-
-#### 운영 도메인
-- https://kmapshot.com
-
-#### 개발 도메인
-- https://dev.kmapshot.com
-
-#### 모니터링
-- https://monitor.kmapshot.com
-    - id: guest
-    - pw: helloiamguest
+- https://panel.kmapshot.com
 
 ### 서비스 운영 기록
 
