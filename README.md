@@ -2,7 +2,7 @@
 
 - https://panel.kmapshot.com
 
-### 서비스 운영 기록
+### 운영 기록
 
 #### 장애 대응
 
