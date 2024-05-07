@@ -10,8 +10,6 @@
 
 - [23.06 / DB 서버 장애](https://chanwoo-lee.gitbook.io/service-issues/mapshot/23.06-db)
 
-- [22.10 / 데이터 센터 화재](https://chanwoo-lee.gitbook.io/service-issues/mapshot/22.10)
-
 - [22.02 / 외부 라이브러리로 인한 서비스 장애](https://chanwoo-lee.gitbook.io/service-issues/mapshot/22.02)
 
 - [21.04 / 통신사 차단으로 인한 장애 대응](https://chanwoo-lee.gitbook.io/service-issues/troubleshooting-and-thinking/2.)
@@ -23,13 +21,3 @@
 - [24.03 / cloudflare, nginx, grafana로 테스트서버 구축하기](https://lcw3176.github.io/posts/cloudflare_nginx_grafana%EB%A1%9C_%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84_%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 
 - [23.03 / 모니터링 시스템 구축기](https://chanwoo-lee.gitbook.io/service-issues/troubleshooting-and-thinking/3.)
-
-
-#### 서비스 개선
-
-- [23.06 / 도시계획 레이어 도입기](https://chanwoo-lee.gitbook.io/service-issues/mapshot/23.06-2)
-
-- [21.08 / 카카오 지도 도입기](https://chanwoo-lee.gitbook.io/service-issues/mapshot/21.08)
-
-- [21.07 / 도시계획 레이어 도입 실패기](https://chanwoo-lee.gitbook.io/service-issues/mapshot/21.07)
-
