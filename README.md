@@ -18,6 +18,4 @@
 
 - [24.04 / 머리아픈 클라우드플레어와 망사용료](https://lcw3176.github.io/posts/%EB%A8%B8%EB%A6%AC%EC%95%84%ED%94%88_%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%94%8C%EB%A0%88%EC%96%B4%EC%99%80_%EB%A7%9D%EC%82%AC%EC%9A%A9%EB%A3%8C/)
 
-- [24.03 / cloudflare, nginx, grafana로 테스트서버 구축하기](https://lcw3176.github.io/posts/cloudflare_nginx_grafana%EB%A1%9C_%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84_%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
-
 - [23.03 / 모니터링 시스템 구축기](https://chanwoo-lee.gitbook.io/service-issues/troubleshooting-and-thinking/3.)
