@@ -10,8 +10,6 @@
 
 - [23.06 / DB 서버 장애](https://chanwoo-lee.gitbook.io/service-issues/mapshot/23.06-db)
 
-- [22.02 / 외부 라이브러리로 인한 서비스 장애](https://chanwoo-lee.gitbook.io/service-issues/mapshot/22.02)
-
 - [21.04 / 통신사 차단으로 인한 장애 대응](https://chanwoo-lee.gitbook.io/service-issues/troubleshooting-and-thinking/2.)
 
 #### 인프라 개선
