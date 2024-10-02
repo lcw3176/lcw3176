@@ -2,11 +2,10 @@ name: remove image cache
 
 on:
   schedule:
-    - cron: '* * * * *' 
-  workflow_dispatch:
+    - cron: '* */1 * * *' 
 
 jobs:
-  run-code:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
