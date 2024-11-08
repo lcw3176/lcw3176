@@ -1,0 +1,14 @@
+# name: remove image cache
+
+# on:
+#   schedule:
+#     - cron: '0 */1 * * *' 
+
+# jobs:
+#   run:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - name: Send PURGE
+#         run: |
+#           curl -X PURGE https://camo.githubusercontent.com/2ea66dc2bf6596be4050b9bb5a8ebe00663167e424b58b7da142e2cbf3c8dd74/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f67726170682f6461696c79686974732e7376673f75726c3d68747470733a2f2f6b6d617073686f742e636f6d
